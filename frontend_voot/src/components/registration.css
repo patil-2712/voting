@@ -1,0 +1,59 @@
+
+.newdiv{
+    background-color: rgb(119, 223, 15);
+}
+
+.demo{
+    /* margin-top: 3rem;
+    margin-bottom: 3rem; */
+    background-color:rgb(227, 225, 225);
+}
+/* registration.css */
+.newdiv {
+    background-color: #8abaeb;
+    padding: 20px;
+    border-radius: 0px;
+}
+
+.demo {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.text-danger {
+    font-size: 12px;
+    color: red;
+}
+
+#button2{
+    margin-left: 5%;
+    color:white;
+}
+.hover-button:hover {
+    /* background-color: #4CAF50; */
+    color: rgb(41, 128, 190);
+  }
+
+
+  input::placeholder {
+    color: gray; /* Change text color */
+    font-style: normal; /* Italicize the text */
+    font-size: 17px; /* Adjust font size */
+    opacity: 1; /* Ensure the placeholder is fully visible */
+}
+
+select {
+    font-family: Arial, sans-serif; /* Font for the dropdown */
+    font-size: 15px; /* Font size */
+    color: gray; /* Text color */
+    background-color: #f9f9f9; /* Background color */
+    border: 1px solid #ccc; /* Border styling */
+    padding: 5px; /* Padding inside the select */
+}
+
+option {
+    /* font-family: 'Courier New', monospace; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px; /* Change font size */
+    color: black; /* Text color */
+    background-color: white; /* Background color for the dropdown */
+}
